@@ -13,7 +13,9 @@
   "globals": {
     "document": "readonly",
     "navigator": "readonly",
-    "window": "readonly"
+    "window": "readonly",
+    "setup": true,
+    "draw": true
   },
   "rules": {
     "accessor-pairs": "error",
@@ -398,7 +400,7 @@
     ],
     "quotes": [
       "error",
-      "single",
+      "double",
       {
         "avoidEscape": true,
         "allowTemplateLiterals": false
@@ -498,7 +500,7 @@
     "yoda": [
       "error",
       "never"
-    ],
+    ]
   },
   "extends": "p5js"
 }

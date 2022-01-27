@@ -1,0 +1,24 @@
+{
+  "name": "pftw_w2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ken-teaches-web/pftw_w2022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ken-teaches-web/pftw_w2022/issues"
+  },
+  "homepage": "https://github.com/ken-teaches-web/pftw_w2022#readme",
+  "devDependencies": {
+    "eslint": "^8.7.0",
+    "eslint-config-p5js": "^1.1.0"
+  }
+}
